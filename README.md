@@ -12,6 +12,12 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kur0Daisuke&theme=gotham&layout=compact&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+____
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01F7B8&width=500&lines=How+you+can+reach+me+!+%E2%AD%90)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=01F7B8&multiline=true&width=600&height=200&lines=Discord+-+Kuro+Daisuke%235401;Telegram+-+%40Kur0Dev;More+Later!)](https://git.io/typing-svg)
+
 ____
 
 <h6>@Kur0Daisuke</h6>
