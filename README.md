@@ -16,3 +16,5 @@ ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kur0Daisuke&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ____
+
+<h6>@Kur0Daisuke</h6>
