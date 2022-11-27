@@ -20,5 +20,5 @@ ____
 
 ____
 
-<h6>@Kur0Daisuke</h6>
+<h6>_ @Kur0Daisuke</h6>
 
