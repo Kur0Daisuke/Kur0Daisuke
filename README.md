@@ -11,3 +11,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kur0Daisuke)](https://github.com/anuraghazra/github-readme-stats)
