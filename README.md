@@ -16,7 +16,7 @@ ___
 ____
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01F7B8&width=500&lines=How+you+can+reach+me+!+%E2%AD%90)](https://git.io/typing-svg)
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=01F7B8&multiline=true&width=600&height=200&lines=Discord+-+Kuro+Daisuke%235401;Telegram+-+%40Kur0Dev;More+Later!)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=01F7B8&multiline=true&width=600&height=200&lines=Discord+-+Kuro+Daisuke%235401;Telegram+-+%40Kur0Dev;More+Later!;.......)](https://git.io/typing-svg)
 
 ____
 
