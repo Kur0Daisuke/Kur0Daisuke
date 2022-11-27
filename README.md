@@ -7,7 +7,7 @@ ____
 
 ___
 
-<p style="font-color: lime;">My stats - (Aka - my hardworks)</p>
+<p style="color: lime;">My stats - (Aka - my hardworks)</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
