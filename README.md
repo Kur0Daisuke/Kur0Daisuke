@@ -9,9 +9,8 @@
 > 😄 Pronouns: he <br> 
 > ⚡ Fun fact: The more you code, The more you suffer.
 
-____
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/Kur0Daisuke/Kur0Daisuke/blob/b3624ae1ef046a2b418ce1ccf46fcbf28feaf609/download%20(1).png" alt="My Stats">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kur0Daisuke&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
