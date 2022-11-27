@@ -1,12 +1,12 @@
 <img src="https://github.com/Kur0Daisuke/Kur0Daisuke/blob/0d7edc41ba4c00858fc5ef9456baec048f6d7ea8/header.png" alt="just a programmer">
 
-> 🔭 I’m currently working on my Html Generator
-> 🌱 I’m currently learning Unity Game Development 
-> 👯 I’m looking to collaborate on Javascript projects
-> 🤔 I’m looking for help with my financial statement 
-> 💬 Ask me about how I code
-> 📫 How to reach me: coming soon
-> 😄 Pronouns: he
+> 🔭 I’m currently working on my Html Generator <br>
+> 🌱 I’m currently learning Unity Game Development <br>
+> 👯 I’m looking to collaborate on Javascript projects <br>
+> 🤔 I’m looking for help with my financial statement <br>
+> 💬 Ask me about how I code <br>
+> 📫 How to reach me: coming soon <br> 
+> 😄 Pronouns: he <br> 
 > ⚡ Fun fact: The more you code, The more you suffer.
 
 
