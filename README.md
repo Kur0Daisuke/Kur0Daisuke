@@ -1,14 +1,14 @@
 <img src="https://github.com/Kur0Daisuke/Kur0Daisuke/blob/0d7edc41ba4c00858fc5ef9456baec048f6d7ea8/header.png" alt="just a programmer">
 
 ```
-> 🔭 I’m currently working on my Html Generator <br>
-> 🌱 I’m currently learning Unity Game Development <br>
-> 👯 I’m looking to collaborate on Javascript projects <br>
-> 🤔 I’m looking for help with my financial statement <br>
-> 💬 Ask me about how I code <br>
-> 📫 How to reach me: coming soon <br> 
-> 😄 Pronouns: he <br> 
-> ⚡ Fun fact: The more you code, The more you suffer.
+> 🔭 <p>I’m currently working on my Html Generator</p> <br>
+> 🌱 <p>I’m currently learning Unity Game Development</p> <br>
+> 👯 <p>I’m looking to collaborate on Javascript projects</p> <br>
+> 🤔 <p>I’m looking for help with my financial statement</p> <br>
+> 💬 <p>Ask me about how I code</p> <br>
+> 📫 <p>How to reach me: coming soon</p> <br> 
+> 😄 <p>Pronouns: <span>He</span></p> <br> 
+> ⚡ <p>Fun fact: The more you code, The more you suffer.</p>
 ```
 
 ____
