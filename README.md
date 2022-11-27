@@ -1,7 +1,7 @@
-### Hi there 👋
+###    Hi there 👋
 
-### I'm Kuro Daisuke
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke)](https://github.com/anuraghazra/github-readme-stats)
+###    I'm Kuro Daisuke
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my Html Generator
 - 🌱 I’m currently learning Unity Game Development 
