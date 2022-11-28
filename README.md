@@ -7,7 +7,7 @@ ____
 
 ___
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01F7B8&width=435&lines=My+Stats+(+My+hardworks+%3A%3C+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01F7B8&width=500&lines=My+Stats+(+My+hardworks+%3A%3C+))](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kur0Daisuke&theme=gotham&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
